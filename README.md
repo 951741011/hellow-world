@@ -1,3 +1,4 @@
 # hellow-world
 my first lesson
-now what do i?
+
+I hope to study python.
